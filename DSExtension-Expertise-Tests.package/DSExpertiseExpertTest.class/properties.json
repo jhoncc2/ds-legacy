@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "DSExtension-Expertise-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"developer"
+	],
+	"name" : "DSExpertiseExpertTest",
+	"type" : "normal"
+}
